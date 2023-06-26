@@ -7,3 +7,4 @@ Melakukan perencanaan sahamku berisi :
 6. Persentase
 7. Resistance
 8. Support
+9. Tanggal Hari ini
