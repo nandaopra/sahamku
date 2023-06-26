@@ -1,0 +1,5 @@
+Sahamku :
+1. Melakukan perencanaan pembelian
+2. Menampilkan history pembelian
+3. Menampilkan kategori per saham, cth: pbv<1
+4. Dilakukan per minggu / per bulan
