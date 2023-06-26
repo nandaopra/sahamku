@@ -9,5 +9,4 @@ Melakukan perencanaan sahamku berisi :
 8. Support
 9. Tanggal Hari ini
 10. Keterangan
-11. Membuat User Interface
-
+11. Membuat database
