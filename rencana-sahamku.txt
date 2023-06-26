@@ -8,3 +8,5 @@ Melakukan perencanaan sahamku berisi :
 7. Resistance
 8. Support
 9. Tanggal Hari ini
+10. Keterangan
+11. Membuat database
