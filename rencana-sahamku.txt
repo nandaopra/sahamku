@@ -1,0 +1,9 @@
+Melakukan perencanaan sahamku berisi :
+1. Kode Emiten
+2. Harga Sekarang
+3. Harga Beli
+4. Target Price
+5. Cut Loss
+6. Persentase
+7. Resistance
+8. Support
