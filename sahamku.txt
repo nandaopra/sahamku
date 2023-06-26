@@ -3,3 +3,5 @@ Sahamku :
 2. Menampilkan history pembelian
 3. Menampilkan kategori per saham, cth: pbv<1
 4. Dilakukan per minggu / per bulan
+5. Menampilkan review laporan keungan emiten
+6. Mencatat transaksi saldo
